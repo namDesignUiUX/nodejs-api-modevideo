@@ -1,7 +1,7 @@
 # setup
 git --version 2.38.1.windows.1 <br />
-npm--version 8.19.2 <br />
-node --version v16.18.0 <br />
+npm--version 8.19.2 
+node --version v16.18.0 
 yarn --version 1.22.19 <br />
 <br />
 -> setup { <br />
